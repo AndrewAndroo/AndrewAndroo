@@ -1,1 +1,1 @@
-Aye, I'm Andrew, I like starting fun projects but I lack in knowledge sometimes.
+Aye, I'm Andrew, I like starting fun projects. I do things in C++
